@@ -85,7 +85,7 @@
   position: relative;
   padding: 11px 35px;
   background: #fff;
-  color: #00796b;
+  color: #2C3E50;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -559,7 +559,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #2C3E50 !important;
+  background-color: #008073 !important;
 }
 
 /* .teal {
